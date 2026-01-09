@@ -11,6 +11,6 @@ jobs:
       - name: Checkout source code
         uses: actions/checkout@v6
       - name: Setup TFLint
-        uses: terraform-linters/setup-tflint@v4
+        uses: terraform-linters/setup-tflint@v6
       - name: Run TFLint
         run: make test_tflint
