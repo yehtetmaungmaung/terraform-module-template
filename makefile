@@ -9,6 +9,8 @@ install: install_$(INSTALLER)
 install_brew:
 	brew tap hashicorp/tap
 	brew install $(BREW_PACKAGES)
+	tenv terraform install
+	tenv terragrunt install
 
 .PHONY: install_
 install_:

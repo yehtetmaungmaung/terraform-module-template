@@ -9,3 +9,15 @@ This template is inspired by Robert Hafner's. Checkout his work [here](https://g
 * Formatting and Validation
 * Git Hooks with the Pre-Commit Framework.
 * Testing with Terratest and Terraform Testing Framework
+* Automated inputs and outputs update.
+
+
+## Outputs
+<!-- BEGIN_TF_DOCS -->
+## Inputs
+
+No inputs.
+## Outputs
+
+No outputs.
+<!-- END_TF_DOCS -->
