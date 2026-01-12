@@ -12,7 +12,7 @@ This template is inspired by Robert Hafner's. Checkout his work [here](https://g
 * Automated inputs and outputs update.
 
 
-## Outputs
+
 <!-- BEGIN_TF_DOCS -->
 ## Inputs
 
